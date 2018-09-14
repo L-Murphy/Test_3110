@@ -30,6 +30,7 @@ public class AddressBook {
 		AddressBook aBook = new AddressBook();
 		aBook.addBuddy(aBud);
 		aBook.removeBuddy(aBud);
+		//This is to get a second comparison
 	}
 }
 	
